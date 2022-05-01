@@ -1,0 +1,39 @@
+header {
+    height: 388px;
+    background: #0020F4;
+}
+
+.navbar a {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.navbar ul li {
+    list-style-type: none;
+}
+
+.navbar-nav a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.navbar-nav-contact a {
+    color: #171717;
+    text-decoration: none;
+}
+
+.navbar-nav-contact {
+    width: 160px;
+    height: 55px;
+    background-color: #ffffff;
+    border-radius: 28px 28px 28px 28px;
+}
+
+.logo {
+    width: 115px;
+    height: 65px;
+}
+
+section p {
+    color: #171717;
+}
